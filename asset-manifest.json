@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Swio_assignment/static/css/main.5e03691c.css",
+    "main.js": "/Swio_assignment/static/js/main.eeca37f0.js",
+    "static/js/453.d1ead18a.chunk.js": "/Swio_assignment/static/js/453.d1ead18a.chunk.js",
+    "static/media/iphone.png": "/Swio_assignment/static/media/iphone.b0a1d6f184bdd50701c7.png",
+    "static/media/umbra.PNG": "/Swio_assignment/static/media/umbra.1da65d07dca4a5d5d216.PNG",
+    "static/media/theme.PNG": "/Swio_assignment/static/media/theme.e5bdf7ee4563de3bdb43.PNG",
+    "static/media/shareable.PNG": "/Swio_assignment/static/media/shareable.d33574e3db563766b63f.PNG",
+    "static/media/screenshot.PNG": "/Swio_assignment/static/media/screenshot.1a77560e8dac40a11ca0.PNG",
+    "static/media/Capture.PNG": "/Swio_assignment/static/media/Capture.36d0826e7d55b4118846.PNG",
+    "static/media/soundAccessory3.png": "/Swio_assignment/static/media/soundAccessory3.0fb5cdb8a39d0542eea9.png",
+    "static/media/bootstrap-icons.woff?": "/Swio_assignment/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/scroble.PNG": "/Swio_assignment/static/media/scroble.c7ebdceff09fc50c731a.PNG",
+    "static/media/bootstrap-icons.woff2?": "/Swio_assignment/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/soundAccessory1.png": "/Swio_assignment/static/media/soundAccessory1.69aa4bed42105579a7f1.png",
+    "static/media/macAccessory1.png": "/Swio_assignment/static/media/macAccessory1.5774800ad729d3b13a52.png",
+    "static/media/watchAccessory2.png": "/Swio_assignment/static/media/watchAccessory2.aa007158d908ba188819.png",
+    "static/media/iphoneAccessory2.jpeg": "/Swio_assignment/static/media/iphoneAccessory2.13c7f4442a5b966a49e7.jpeg",
+    "static/media/macAccessory2.png": "/Swio_assignment/static/media/macAccessory2.23d45491d72d60f68048.png",
+    "static/media/soundAccessory2.png": "/Swio_assignment/static/media/soundAccessory2.29091c5ba12f8654b7df.png",
+    "static/media/iphoneAccessory1.jpeg": "/Swio_assignment/static/media/iphoneAccessory1.b37b6e7e886bab0ddb54.jpeg",
+    "static/media/iphoneAccessory3.jpeg": "/Swio_assignment/static/media/iphoneAccessory3.05ce7443d69e87f39efe.jpeg",
+    "static/media/customize.PNG": "/Swio_assignment/static/media/customize.ae24b86eeb430fcb9d59.PNG",
+    "static/media/macAccessory3.png": "/Swio_assignment/static/media/macAccessory3.ef9f88a9da4887277fe9.png",
+    "static/media/watchAccessory1.png": "/Swio_assignment/static/media/watchAccessory1.6b7dcd4e56684ab9f385.png",
+    "static/media/music.PNG": "/Swio_assignment/static/media/music.821f9e6fd60ac28c0346.PNG",
+    "static/media/ipadAccessory2.PNG": "/Swio_assignment/static/media/ipadAccessory2.437734b843eba18efe46.PNG",
+    "static/media/watchAccessory3.png": "/Swio_assignment/static/media/watchAccessory3.fd337953ebfc378c2b8d.png",
+    "static/media/ipadAccessory3.PNG": "/Swio_assignment/static/media/ipadAccessory3.81c47c5f8dc9420160ca.PNG",
+    "static/media/progess.png": "/Swio_assignment/static/media/progess.d2c5f22c9bbac38a1435.png",
+    "static/media/heading.PNG": "/Swio_assignment/static/media/heading.1f0d1a52b9430530b2a0.PNG",
+    "static/media/ipadAccessory1.PNG": "/Swio_assignment/static/media/ipadAccessory1.71147c35d5f256747e39.PNG",
+    "index.html": "/Swio_assignment/index.html",
+    "main.5e03691c.css.map": "/Swio_assignment/static/css/main.5e03691c.css.map",
+    "main.eeca37f0.js.map": "/Swio_assignment/static/js/main.eeca37f0.js.map",
+    "453.d1ead18a.chunk.js.map": "/Swio_assignment/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e03691c.css",
+    "static/js/main.eeca37f0.js"
+  ]
+}
