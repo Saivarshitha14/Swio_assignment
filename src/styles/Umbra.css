@@ -1,0 +1,41 @@
+.umbra-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .umbra-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .umbra-content {
+    text-align: center;
+  }
+  
+  .image-with-heading {
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+  .heading-image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .feature-box {
+    display: inline-block;
+    width: calc(50% - 20px); 
+    margin: 10px; 
+    border: 1px solid #ccc;
+    background-color: #ddd3d38f;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .feature-box {
+      width: calc(100% - 20px);
+    }
+  }
+  

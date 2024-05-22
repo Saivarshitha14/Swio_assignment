@@ -1,0 +1,117 @@
+
+.navbar-icon {
+    width: 30px;
+    height: 30px;
+  }
+  .content-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(232, 250, 255);
+    width: calc(100% - 250px);
+    padding: 10px;
+ 
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+  
+  .content-container h5 {
+    margin: 0;
+    color: rgb(156, 155, 155); 
+  }
+  .preview-title {
+    color: rgb(0, 0, 0);
+    margin: 20px;
+  }
+
+  .music-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px; 
+    background-color: grey;
+    width: 100%;
+  }
+  .music-content {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+    padding: 20px;
+    gap: 20%;
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+  }
+  .music-image {
+    width: 20%; 
+    height: auto;
+    padding:1%;
+    margin: 5%;
+  }
+  
+  .music-details {
+    color: rgb(0, 0, 0);
+    text-align: left;
+  }
+  
+  .music-details h2 {
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .age-rating {
+    font-weight: normal;
+  }
+  
+  .rating {
+    margin: 10px 0;
+  }
+  
+  .stars {
+    color: gold;
+  }
+  
+  .price {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+  .screenshots-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .screenshots-title {
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 1.6em;
+  }
+  
+  .screenshot-image {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+  }
+
+  .whats-new-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+    color: rgb(0, 0, 0);
+  }
+  
+  .whats-new-section div {
+    width: 45%; 
+  }
+  
+  .whats-new-title, .version-history-title {
+    color: rgb(35, 164, 250);
+  }
+  
